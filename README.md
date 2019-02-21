@@ -2,7 +2,7 @@
 <hr/>
 A simple repository used to experiment with and learn Git.
 
-## if you have Windows
+## If you have Windows
 1. Download git bash
 
 ## What to Learn About Git
