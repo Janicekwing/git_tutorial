@@ -3,7 +3,8 @@
 A simple repository used to experiment with and learn Git.
 
 ## What is git?
-https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
+- https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
+- https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61
 
 ## If you have Windows
 1. Download git bash
@@ -12,6 +13,7 @@ https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
 1. When in doubt?
         
         git help
+        git log
 2. Forking a repo
 3. Cloning a repo
 
