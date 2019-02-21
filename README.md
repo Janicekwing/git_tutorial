@@ -20,6 +20,7 @@ A simple repository used to experiment with and learn Git.
         git clone repo-url
 4. Edit the files on your local machine, and save them
 5. Pulling updates and pushing changes on one branch:
+        *Always pull before you push!*
 
         a. edit a file on github
         
