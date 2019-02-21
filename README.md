@@ -2,6 +2,9 @@
 <hr/>
 A simple repository used to experiment with and learn Git.
 
+## What is git?
+https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
+
 ## If you have Windows
 1. Download git bash
 
