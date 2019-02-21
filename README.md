@@ -6,7 +6,9 @@ A simple repository used to experiment with and learn Git.
 1. Download git bash
 
 ## What to Learn About Git
-1. git help
+1. When in doubt?
+        
+        git help
 2. Forking a repo
 3. Cloning a repo
 
