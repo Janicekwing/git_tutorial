@@ -9,6 +9,10 @@ A simple repository used to experiment with and learn Git.
 ## If you have Windows
 1. Download git bash
 
+## Text Editor
+- Vim: 
+    - for insert, type i
+    - save and quit is 'esc', :x, 'enter'
 ## What to Learn About Git
 1. When in doubt?
         
